@@ -4,14 +4,23 @@ This project was completed mostly in OCaml and the language that it has been cre
 There are multiple branches of this project, with each adding new features to the compiling process, which are listed below: 
 
 Auklet - Unary/Binary Operations
+
 Bluebird - More Syntax/ Unique binary representation for Booleans
+
 Cardinal - Runtime checks for misused values
+
 Dove - First-order functions / Compile-time errors
+
 Eagle - Heap-allocated Tuples 
+
 Falcon - First-class Functions and Partial Application 
+
 Lorikeet - Parrallelism/Threading
+
 Gull - Variable Mutation / Garbage Collection
+
 Hoopoe - Tail-call optimization (better recursion for loops) 
+
 Pyrrhuloxia - A unique parser for the language 
 
 The current branch uploaded is PYRRHULOXIA
